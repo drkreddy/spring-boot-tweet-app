@@ -10,3 +10,4 @@ Sample tweeter app to demonstrate springboot features;
 6) JPA respositories
 7) CommandLine Runner
 8) Profiles usage
+9) bCryptPasswordEncoder
