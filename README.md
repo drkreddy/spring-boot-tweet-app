@@ -1,6 +1,6 @@
 # spring-boot-tweet-app
 
-Sample tweeter app to demonstrate springboot featuerers;
+Sample tweeter app to demonstrate springboot features;
 
 1) Security Config
 2) H2 Database Integration
